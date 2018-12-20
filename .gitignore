@@ -1,0 +1,6 @@
+backend/secrets/
+backend/node_modules/
+backend/bin/configuredb.sh
+frontend/node_modules/
+frontend/.cache/
+frontend/dist/
